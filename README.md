@@ -1,7 +1,6 @@
 # REMI GDP data Conversion
-
+Under construction
 ## Lint
-[![Code Health](https://landscape.io/github/mnatale/column-filter/master/landscape.svg?style=plastic)](https://landscape.io/github/mnatale/column-filter/master)
 
 ## Build
 [![Build Status](https://travis-ci.org/mnatale/column-filter.svg?branch=master)](https://travis-ci.org/mnatale/column-filter)
